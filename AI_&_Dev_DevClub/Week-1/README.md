@@ -46,5 +46,6 @@ https://docs.google.com/spreadsheets/d/1IWoYfs4bDkBEnJPCCXHtWc27Xp4xGYE_/edit?us
 
 ## 👤 Author
 
-Madhu Smita  
+Madhusmita  Talukdar
+2024CS10253
 CAIC Summer of Tech 2025 – Week 1
