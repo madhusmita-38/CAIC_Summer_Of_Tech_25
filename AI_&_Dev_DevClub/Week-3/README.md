@@ -1,11 +1,10 @@
 #  Week 3 Submission
 
 ## OVERVIEW
-This week I extended the tweet generation system to make it smarter, more customizable, and brand-ready.
-I added sentiment-based smart tweet generation, industry-based formatting, brand voice control, and even used a trained ML model to predict the number of likes a tweet might get. I also experimented with GPT-2 based tweet generation as a bonus!
+This week I extended the tweet generation system to make it smarter and more customizable.
+I added sentiment-based smart tweet generation, industry-based formatting, brand voice control, and even used a trained ML model to predict the number of likes a tweet might get. I also experimented with GPT-2 based tweet generation as a bonus.
 
 ## WEEK3 - What Did I Do
-
 - Template-based tweet generation (basic & advanced)
 - Integration with ML model to predict tweet likes
 - Feature extraction using TF-IDF + sentiment + media
@@ -27,7 +26,7 @@ I added sentiment-based smart tweet generation, industry-based formatting, brand
 ###  Basic Tweet Generator
 Uses predefined templates like:
 - `announcement`, `question`, `product launch`, `event`, `achievement`, `hiring`, `giveaway`, etc
-Each tweet is generated using dynamic fields like `{company}`, `{topic}`, `{message}`, etc.
+Each tweet is generated using fields like `{company}`, `{topic}`, `{message}`, etc.
 
 ### Smart Tweet Generator (Bonus 2)
 - Chooses between positive, negative, and neutral templates
